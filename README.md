@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on [EasyWidgets library](https://github.com/ErrorxCode/EasyWidgets)
 
-- 👨‍💻 All of my projects are available at [xcoder.tk](xcoder.tk)
+- 👨‍💻 All of my projects are available at [xcoder.tk](https://www.xcoder.tk)
 
-- 📝 I regularly write articles on [xcoder.tk/blogs](xcoder.tk/blogs)
+- 📝 I regularly write articles on [blog](https://www.xcoder.tk/blog)
 
 - 💬 Ask me about **android,java,python or cyber security's topic**
 
@@ -21,11 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rahilkhan15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahilkhan15" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ʀᴀʜɪʟ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ʀᴀʜɪʟ" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14773942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ʀᴀʜɪʟ" height="30" width="40" /></a>
 <a href="https://instagram.com/x__coder__x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x__coder__x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/andro developers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andro developers" height="30" width="40" /></a>
-<a href="/xcoder.tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="xcoder.tk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcQS2F6LXAyuE_RXoIQxkMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andro developers" height="30" width="40" /></a>
+<a href="https://www.xcoder.tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="xcoder.tk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
