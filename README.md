@@ -3,11 +3,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorxcode&label=Profile%20views&color=0e75b6&style=flat" alt="errorxcode" /> </p> -->
 
-- 🔭 I’m currently working on **Remotify**
+- 🔭 I’m currently working on **Android libraries **
 
-- 🌱 I’m currently learning **android**
+- 🌱 I’m currently learning **Nothing**
 
-- 👯 I’m looking to collaborate on [EasyWidgets library](https://github.com/ErrorxCode/EasyWidgets)
+- 👯 I’m looking to collaborate on [CloremDB library](https://github.com/ErrorxCode/CloremDB)
 
 - 👨‍💻 All of my projects are available at [xcoder.tk](https://www.xcoder.tk)
 
