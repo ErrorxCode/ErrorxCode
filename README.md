@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend with spark**
 
-- 👯 I’m looking to collaborate on [SyncDB](https://github.com/ErrorxCode/SyncDB)
+- 👯 I’m looking to collaborate on [FloraDB](https://github.com/ErrorxCode/FloraDB)
 
 - 👨‍💻 All of my projects are available at [xcoder.tk](https://www.xcoder.tk)
 
