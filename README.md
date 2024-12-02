@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="500" style="width: 100%" />
 
   
 </div>  
 
-### <div align="center">I'm Rahil, a self-tout android developer, Working for open-source community since started 🚀</div> 
+### <div align="center">I'm Rahil, a self-tout software developer, cracker and cyber enthusiast, Working for open-source community since started 🚀</div> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" style="width: 50%" />
 
@@ -14,10 +14,10 @@
 - 🔭 I'm mostly interested in making developer life easier  
   
 
-- 🌱 I create android apps, bots, databases, and libraries  
+- 🌱 I create android apps, bots, chrome extentions, databases, and libraries 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Android, cybersecurity and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
